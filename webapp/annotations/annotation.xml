@@ -80,6 +80,7 @@
                         <PropertyPath>CarrierName</PropertyPath>
                         <PropertyPath>BookingDate</PropertyPath>
                         <PropertyPath>BookingDateYear</PropertyPath>
+                        <PropertyPath>CustomerID</PropertyPath>
                     </Collection>
                 </Annotation>
                 <Annotation Term="UI.Chart" Qualifier="FilterFlightPriceBookingDateYear">
