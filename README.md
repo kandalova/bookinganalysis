@@ -41,4 +41,8 @@ OData v2
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+### Useful notes:
+
+The visual filters are set as the default filter mode in the Analytical List Page application. To view the compact filters click on toggle filter icon in the header.
+
 
